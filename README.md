@@ -3,7 +3,7 @@
 
 All the slides I could find from Coldfront Conf 2017. 
 
-Please let me know if you have the missing pieces :)
+Please [let me know](https://twitter.com/mads_nedergaard) if you have the missing pieces :)
 
 
 ## Day 1 
