@@ -1,3 +1,4 @@
+
 # Coldfront 2017 — Slides
 
 All the slides I could find from Coldfront Conf 2017. 
@@ -15,3 +16,7 @@ Please let me know if you have the missing pieces :)
 - [Magic Tricks with CSS Houdini](http://snugug.github.io/magic-tricks-with-houdini) by [@snugug](https://twitter.com/snugug) (_slides only work in Chrome Canary_)
 - The future of WebXR by [@jsantell](https://twitter.com/jsantell)
 - LiveJS by [@LiveJS_network](https://twitter.com/LiveJS_network)
+
+<p align="center">
+  <img src="logo.svg">
+</p>
