@@ -21,7 +21,9 @@ If you have time for it, you should definitely watch the videos instead (will ad
 
 ## Day 2
 
-_Not yet_
+- [Bridging the web and the physical world](https://docs.google.com/presentation/d/13urpBTcAnKCi8iOccQfM4nIKDdxQrg5Qj6gymGPkk3s/mobilepresent?slide=id.g24e228bf8a_0_0) by [@kennethrohde](https://twitter.com/kennethrohde)
+
+_More soon_
 
 ---
 
