@@ -5,7 +5,7 @@ All the slides I could find from Coldfront Conf 2017.
 
 Please [let me know](https://twitter.com/mads_nedergaard) if you have the missing pieces :)
 
-If you have time for it, you should definitely watch the videos instead (will add link when available), so you won't miss out on the great presentations.
+If you have time for it, you should definitely watch the videos instead (I'll add a link when available), so you won't miss out on the great presentations.
 
 
 ## Day 1 
@@ -30,7 +30,7 @@ If you have time for it, you should definitely watch the videos instead (will ad
 
 ---
 
-**Thanks to every amazing speaker, it's been great so far!**
+**Thanks to every amazing speaker, it's been awesome!**
 
 <p align="center">
   <img src="logo.svg">
