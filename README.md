@@ -25,7 +25,7 @@ If you have time for it, you should definitely watch the videos instead (I'll ad
 - From Doodles to Dashboards and Docs by [@una](https://twitter.com/una)
 - [Making the Web More Approachable](https://speakerdeck.com/jllord/scale-down-people-up) by [@jllord](https://twitter.com/jllord)
 - Why Mailchimp loves the web by [@muntzen](https://twitter.com/muntzen)
-- Betting on The Web (no slides yet, only [blog post](https://joreteg.com/blog/betting-on-the-web) by [@HenrikJoreteg](https://twitter.com/henrikjoreteg)
+- Betting on The Web (no slides yet, only [blog post](https://joreteg.com/blog/betting-on-the-web)) by [@HenrikJoreteg](https://twitter.com/henrikjoreteg)
 
 
 ---
